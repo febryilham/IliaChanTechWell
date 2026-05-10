@@ -1,0 +1,18 @@
+# Environments
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Database
+health_db.sqlite
+*.db
+*.sqlite3
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
