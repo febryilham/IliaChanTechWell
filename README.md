@@ -55,6 +55,14 @@ Reactive AI assistant with photo upload, RAG-powered responses, and SQL database
 
 ![Assistant Chat]<img width="1915" height="903" alt="Cuplikan layar 2026-05-11 011021" src="https://github.com/user-attachments/assets/4ddec7a9-b98d-46e0-b990-547b4062c0e2" />
 
+### Token Limit - Free Trial
+⚠️ Maaf, ada gangguan pada koneksi temporal saya. Error: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please . Coba lagi ya!
+
+<img width="1436" height="838" alt="Cuplikan layar 2026-05-10 223005" src="https://github.com/user-attachments/assets/db396f7b-ebb1-4291-9eae-4209fe48cd45" />
+<img width="1058" height="254" alt="Cuplikan layar 2026-05-11 012014" src="https://github.com/user-attachments/assets/4f3c60b0-4932-4014-b2bc-7add53a9adec" />
+<img width="1100" height="422" alt="Cuplikan layar 2026-05-11 011956" src="https://github.com/user-attachments/assets/17556c68-6083-4cc2-9afd-e334e21bbd05" />
+
+Solution: wait 24 hours Pacific time, you can also change the AI ​​model, you can also use a second account.
 
 ### Demo Recording
 
